@@ -2,7 +2,7 @@ let score = undefined
 console.log(typeof score)
 
 str = Number(score)
-console.log( str)
+console.log(str)
 
 // "33"=>33
 // "adf" => NaN
